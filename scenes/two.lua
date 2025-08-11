@@ -14,7 +14,7 @@ function s.unload()
 end
 
 function s.draw()
-    love.graphics.print("HELLO world",0,0)
+    love.graphics.print("SCENE TWO",0,0)
 end
 
 function s.keypressed(key)
